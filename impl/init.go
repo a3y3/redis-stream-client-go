@@ -8,8 +8,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/handcoding-labs/redis-stream-client-go/configs"
-	"github.com/handcoding-labs/redis-stream-client-go/notifs"
+	"github.com/a3y3/redis-stream-client-go/configs"
+	"github.com/a3y3/redis-stream-client-go/notifs"
 
 	"github.com/go-redsync/redsync/v4"
 	"github.com/redis/go-redis/v9"

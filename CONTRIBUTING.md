@@ -292,8 +292,8 @@ We follow [Semantic Versioning](https://semver.org/):
 ## 📞 Contact
 
 - **Maintainer**: Badari Burli <burli.badari@gmail.com>
-- **Issues**: [GitHub Issues](https://github.com/handcoding-labs/redis-stream-client-go/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/handcoding-labs/redis-stream-client-go/discussions)
+- **Issues**: [GitHub Issues](https://github.com/a3y3/redis-stream-client-go/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/a3y3/redis-stream-client-go/discussions)
 
 ---
 

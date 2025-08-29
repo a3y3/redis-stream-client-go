@@ -13,9 +13,9 @@ import (
 	"github.com/go-redsync/redsync/v4/redis/goredis/v9"
 	"github.com/redis/go-redis/v9"
 
-	"github.com/handcoding-labs/redis-stream-client-go/configs"
-	"github.com/handcoding-labs/redis-stream-client-go/notifs"
-	"github.com/handcoding-labs/redis-stream-client-go/types"
+	"github.com/a3y3/redis-stream-client-go/configs"
+	"github.com/a3y3/redis-stream-client-go/notifs"
+	"github.com/a3y3/redis-stream-client-go/types"
 )
 
 // RecoverableRedisStreamClient is an implementation of the RedisStreamClient interface

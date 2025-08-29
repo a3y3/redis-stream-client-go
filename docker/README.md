@@ -78,7 +78,7 @@ Multi-service setup for:
 
 ```bash
 # Clone the repository
-git clone https://github.com/handcoding-labs/redis-stream-client-go.git
+git clone https://github.com/a3y3/redis-stream-client-go.git
 cd redis-stream-client-go
 
 # Start development environment

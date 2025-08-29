@@ -13,9 +13,9 @@ import (
 
 	"github.com/redis/go-redis/v9"
 
-	"github.com/handcoding-labs/redis-stream-client-go/impl"
-	"github.com/handcoding-labs/redis-stream-client-go/notifs"
-	"github.com/handcoding-labs/redis-stream-client-go/types"
+	"github.com/a3y3/redis-stream-client-go/impl"
+	"github.com/a3y3/redis-stream-client-go/notifs"
+	"github.com/a3y3/redis-stream-client-go/types"
 )
 
 func main() {

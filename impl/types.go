@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/handcoding-labs/redis-stream-client-go/configs"
+	"github.com/a3y3/redis-stream-client-go/configs"
 
 	"github.com/go-redsync/redsync/v4"
 )

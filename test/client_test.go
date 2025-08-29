@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/handcoding-labs/redis-stream-client-go/configs"
-	"github.com/handcoding-labs/redis-stream-client-go/impl"
-	"github.com/handcoding-labs/redis-stream-client-go/notifs"
-	"github.com/handcoding-labs/redis-stream-client-go/types"
+	"github.com/a3y3/redis-stream-client-go/configs"
+	"github.com/a3y3/redis-stream-client-go/impl"
+	"github.com/a3y3/redis-stream-client-go/notifs"
+	"github.com/a3y3/redis-stream-client-go/types"
 	redisgo "github.com/redis/go-redis/v9"
 
 	"github.com/stretchr/testify/require"
